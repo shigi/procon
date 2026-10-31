@@ -7,9 +7,9 @@ function main(input) {
 
     var t = a.reduce((sum, ai) => sum + ai)
     if (k * n >= t)
-	console.log(k * n - t)
+        console.log(k * n - t)
     else
-	console.log(-1)
+        console.log(-1)
 }
 
 main(fs.readFileSync('/dev/stdin', 'utf8'))

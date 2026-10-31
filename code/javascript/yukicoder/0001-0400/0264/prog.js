@@ -1,8 +1,8 @@
 import fs from 'node:fs'
 
 const tbl = [["Drew", "Won" , "Lost"],
-	     ["Lost", "Drew", "Won" ],
-	     ["Won" , "Lost", "Drew"]];
+             ["Lost", "Drew", "Won" ],
+             ["Won" , "Lost", "Drew"]];
 
 function main(input) {
     const lines = input.split("\n");
