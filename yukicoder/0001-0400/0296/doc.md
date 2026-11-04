@@ -1,6 +1,11 @@
-|URL|https://yukicoder.me/problems/no/296|
-|No.|296|
-|Title|n度寝|
+---
+# No.296 n度寝
+
+| | |
+|---|---|
+| URL | https://yukicoder.me/problems/no/296 |
+| No. | 296 |
+| Title | n度寝 |
 
 時刻は24時間を分で数えることにする.
 

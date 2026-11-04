@@ -1,6 +1,11 @@
-|URL|https://yukicoder.me/problems/89|
-|No.|47|
-|Title|ポケットを叩くとビスケットが２倍|
+---
+# No.47 ポケットを叩くとビスケットが２倍
+
+| | |
+|---|---|
+| URL | https://yukicoder.me/problems/89 |
+| No. | 47 |
+| Title | ポケットを叩くとビスケットが２倍 |
 
 逆に考える.
 

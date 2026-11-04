@@ -1,6 +1,11 @@
-|URL|https://yukicoder.me/problems/75|
-|No.|48|
-|Title|ロボットの操縦|
+---
+# No.48 ロボットの操縦
+
+| | |
+|---|---|
+| URL | https://yukicoder.me/problems/75 |
+| No. | 48 |
+| Title | ロボットの操縦 |
 
 場合分けして考える.
 
