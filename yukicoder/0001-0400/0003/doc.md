@@ -1,6 +1,7 @@
 ---
 # No.3 ビットすごろく
 
+| | |
 |---|---|
 | URL | https://yukicoder.me/problems/11 |
 | No. | 3 |
