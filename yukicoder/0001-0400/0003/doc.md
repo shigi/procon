@@ -1,8 +1,8 @@
 # No.3 ビットすごろく
 
-|URL|https://yukicoder.me/problems/11|
-|No.|3|
-|Title|ビットすごろく|
+| URL | https://yukicoder.me/problems/11 |
+| No. | 3 |
+| Title |ビットすごろく |
 
 $i$ のマスに最小何回でたどりつくかを $C_i$ で表す. 最初はすべての $i$ について $C_i$ は無限大である.
 
