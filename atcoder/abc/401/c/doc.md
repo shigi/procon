@@ -1,6 +1,12 @@
-url: https://atcoder.jp/contests/abc401/tasks/abc401_c
-title: K-bonacci
 ---
+# ABC 401 C - K-bonacci
+
+| | |
+|---|---|
+| URL | https://atcoder.jp/contests/abc401/tasks/abc401_c |
+| No. | ABC No.401 C |
+| Title | K-bonacci |
+
 まず, $A_K = K$ である.
 
 次に $i \gt K$ である $i$ について $A_i$ は,

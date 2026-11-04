@@ -1,13 +1,12 @@
-title: atcoder
 ---
-atcoder
+# atcoder
 
-ABC
+## ABC
 
 |     |     |     |
 |-----|-----|-----|
-|0201|[A問題](abc/0201/a/doc.md)|[B問題](abc/0201/b/doc.md)|
+|201|[A問題](abc/201/a/doc.md)|[B問題](abc/201/b/doc.md)|
 
 |     |     |     |     |
 |-----|-----|-----|-----|
-|0401|[A問題](abc/0401/a/doc.md)|[B問題](abc/0401/b/doc.md)|[C問題](abc/0401/c/doc.md)|
+|401|[A問題](abc/401/a/doc.md)|[B問題](abc/401/b/doc.md)|[C問題](abc/401/c/doc.md)|
