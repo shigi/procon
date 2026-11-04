@@ -1,4 +1,10 @@
-url: https://yukicoder.me/problems/no/9001
-title: 標準入出力の練習問題（テスト用）
 ---
+# No.9001 標準入出力の練習問題（テスト用）
+
+| | |
+|---|---|
+| URL | https://yukicoder.me/problems/no/9001 |
+| No. | 9001 |
+| Title | 標準入出力の練習問題（テスト用） |
+
 標準入力からの読み取りを実装してみる.
