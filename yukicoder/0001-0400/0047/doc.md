@@ -1,6 +1,7 @@
-url: https://yukicoder.me/problems/89
-title: ポケットを叩くとビスケットが２倍
----
+|URL|https://yukicoder.me/problems/89|
+|No.|47|
+|Title|ポケットを叩くとビスケットが２倍|
+
 逆に考える.
 
 最初ポケットに $N$ 枚入っているとして, ポケットを叩くとビスケットの枚数が半分になるとする.

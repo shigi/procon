@@ -1,4 +1,5 @@
-url: https://yukicoder.me/problems/134
-title: ポッキーゲーム
----
+|URL|https://yukicoder.me/problems/134|
+|No.|63|
+|Title|ポッキーゲーム|
+
 ユウちゃんが何回食べるかを考える. これは $L$ を $2K$ で割った余りが $0$ ならば $L/2K-1$ 回, そうでなければ $\floor{L/2K}$ 回である. この回数に $K$ を掛けたものが答えとなる.
