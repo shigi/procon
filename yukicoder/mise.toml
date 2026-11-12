@@ -1,0 +1,4 @@
+[tools]
+kotlin = { version = "2.4.21", asset_pattern = "kotlin-compiler-*.zip", bin_path = "kotlinc/bin" }
+node = "26.12.1"
+ruby = "4.0.7"
