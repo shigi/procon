@@ -9,7 +9,7 @@ fun main() {
         for (nb in 0..b)
             for (nc in 0..c)
                 if (na*500 + nb*100 + nc*50 == x)
-                    t += 1    
+                    t += 1
 
     println(t)
 }

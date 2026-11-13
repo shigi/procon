@@ -3,7 +3,7 @@ fun main() {
 
     var friends = new Array(n) {
         val (a, b) = readln().split(" ").map { it.toInt() }
-        return 
+        return
     }
 
     println(r)

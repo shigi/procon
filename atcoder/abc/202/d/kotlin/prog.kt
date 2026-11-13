@@ -14,7 +14,7 @@ fun main() {
 
     var ncr = fun(n: Int, r: Int, fact: Array<BigInteger>)
         = fact[n] / fact[r] / fact[n-r]
-    
+
     var ans = ""
     while (a + b > b0) {
         if (a > b0) {
