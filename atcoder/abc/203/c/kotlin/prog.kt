@@ -1,10 +1,15 @@
 fun main() {
     val (n, k) = readln().split(" ").map { it.toInt() }
 
-    var friends = new Array(n) {
+    var friends = MutableList<HashMap<String, Int>>(0)
+    for (i in (1..n)) {
         val (a, b) = readln().split(" ").map { it.toInt() }
-        return
+	val map = HashMap<String, Int>()
+	map["a"] = a
+	map["b"] = b
+        friends.add(map)
     }
+    friends.sortBy { it["a"] }
 
-    println(r)
+    println(friends)
 }

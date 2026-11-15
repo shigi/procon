@@ -1,2 +1,7 @@
+# java (include kotlin)
 META-INF
 *.class
+
+# rust
+Cargo.lock
+target/
