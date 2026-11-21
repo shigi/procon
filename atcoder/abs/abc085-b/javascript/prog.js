@@ -5,7 +5,7 @@ function main(input) {
     var n = parseInt(lines[0])
     var d = []
     for (var i = 1; i <= n; ++i)
-	d.push(parseInt(lines[i]))
+        d.push(parseInt(lines[i]))
 
     var h = {}
     for (var di of d)

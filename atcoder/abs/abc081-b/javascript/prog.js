@@ -7,9 +7,9 @@ function main(input) {
 
     var c = 0
     while (a.filter((ai) => ai % 2 == 1).length == 0) {
-	for (var i = 0; i < a.length; ++i)
-	    a[i] /= 2
-	c += 1
+        for (var i = 0; i < a.length; ++i)
+            a[i] /= 2
+        c += 1
     }
 
     console.log(c)
